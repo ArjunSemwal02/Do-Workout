@@ -1,5 +1,3 @@
-import './App.css'
-
 export default function App() {
-  return 1
+  return <div>Kya Kann Lagya! 😊</div>
 }
